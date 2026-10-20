@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jaraco/pmxbot.webhooks/commit/593da6b75f438c7b7d38fe44b5fee99927567546",
       "git:hexsha": "593da6b75f438c7b7d38fe44b5fee99927567546",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jaraco/pmxbot.webhooks/commit/083dad7b2f0e387ecec687653b3d77aaee1a24ef",
