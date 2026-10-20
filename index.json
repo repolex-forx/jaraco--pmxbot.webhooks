@@ -1,0 +1,11 @@
+{
+  "org": "jaraco",
+  "repo": "pmxbot.webhooks",
+  "versions": [
+    {
+      "commit": "593da6b75f438c7b7d38fe44b5fee99927567546",
+      "tag": "",
+      "parsed_at": "2026-10-20T11:25:19.352728+00:00"
+    }
+  ]
+}
